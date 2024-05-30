@@ -22,7 +22,7 @@
 - Faça um call to action para as minhas redes sociais.
 - Coloque 3 hashtags que façam sentido.
 
-Confira o resultado no link:
+Confira o resultado no link: https://github.com/raquelpra/Projeto-DIO-Artigo-Tecnico/blob/main/Artigo.md
 
 Créditos:
 
